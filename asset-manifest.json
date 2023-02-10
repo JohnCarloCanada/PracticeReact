@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea09f762.css",
+    "main.js": "/static/js/main.0c35ec6a.js",
+    "index.html": "/index.html",
+    "static/media/Hamburger Menu.svg": "/static/media/Hamburger Menu.c4da44b0fcad092b75c71bcf346b4d22.svg",
+    "main.ea09f762.css.map": "/static/css/main.ea09f762.css.map",
+    "main.0c35ec6a.js.map": "/static/js/main.0c35ec6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea09f762.css",
+    "static/js/main.0c35ec6a.js"
+  ]
+}
